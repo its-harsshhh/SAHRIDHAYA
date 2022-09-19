@@ -8,9 +8,9 @@ SAHRIDHAYA will lead to Healthy India which in turn increase productivity of Ind
 <img src= "Images/4.png">
 <img src= "Images/1.png">
 <img src= "Images/2.png">
-<img src= "Images/3.png">
-<img src= "Images/5.png">
-<img src= "Images/6.png">
+<img src= "Images/5.jpeg">
+<img src= "Images/4.jpeg">
+<img src= "Images/6.jpeg">
 
 
 
