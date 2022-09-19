@@ -5,7 +5,7 @@ Sahridhaya is a user-enabled platform that aids government organization to make 
 SAHRIDHAYA will lead to Healthy India which in turn increase productivity of Indians. High productivity means High earning potential. In short we can say healthy body is directly proportional to earning potential. A healthy auto driver can work for 12 hours a day from existing 8 hours thus can earn 50% more.<br></b>
 
 <h2>Sahridhaya Images</h2>
-<img src= "Images/4.png">
+<img src= "Images/3.png">
 <img src= "Images/1.png">
 <img src= "Images/2.png">
 <img src= "Images/5.jpeg">
