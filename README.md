@@ -5,14 +5,13 @@ Sahridhaya is a user-enabled platform that aids government organization to make 
 SAHRIDHAYA will lead to Healthy India which in turn increase productivity of Indians. High productivity means High earning potential. In short we can say healthy body is directly proportional to earning potential. A healthy auto driver can work for 12 hours a day from existing 8 hours thus can earn 50% more.<br></b>
 
 <h2>Sahridhaya Images</h2>
-<img src= "8.png">
-<img src= "7.png">
-<img src= "6.png">
-<img src= "3.jpeg">
-<img src= "2.jpeg">
-<img src= "4.jpeg">
-<img src= "1.jpeg">
-<img src= "5.jpeg">
+<img src= "Images/4.png">
+<img src= "Images/1.png">
+<img src= "Images/2.png">
+<img src= "Images/3.png">
+<img src= "Images/5.png">
+<img src= "Images/6.png">
+
 
 
 VERCEL DEPLOY : [sahridhaya.vercel.app](https://sahridhaya-wj9pocvrc-its-harsshhh.vercel.app/)
