@@ -17,4 +17,6 @@ SAHRIDHAYA will lead to Healthy India which in turn increase productivity of Ind
 
 VERCEL DEPLOY : [sahridhaya.vercel.app](https://sahridhaya-wj9pocvrc-its-harsshhh.vercel.app/)
 
-SPHERON DEPLOY : https://spheron.infura-ipfs.io/ipfs/Qmdo4ZXqxR3DLPhUZCHfz2A5GENfW9AsKrvFCdqoUaSHEf/
+SPHERON DEPLOY : [sahridhaya.spheron.app](https://spheron.infura-ipfs.io/ipfs/Qmdo4ZXqxR3DLPhUZCHfz2A5GENfW9AsKrvFCdqoUaSHEf/)
+
+Google map API : [SAH_Gmaps.app](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/utils/geocoder/#q%3D29.916852%252C-25.664062)
